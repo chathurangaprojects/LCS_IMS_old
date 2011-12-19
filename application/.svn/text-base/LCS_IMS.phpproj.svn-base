@@ -1,0 +1,3262 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "application"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\cache\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\cache\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\autoload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\constants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\database.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\doctypes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\foreign_chars.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\hooks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\mimes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\profiler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\routes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\smileys.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\user_agents.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\Login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\PurchaseOrder"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\PurchaseOrder\\PurchaseOrderManagement.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\Supplier"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\Supplier\\SupplierManagement.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\core"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\core\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_404.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_db.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_general.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_php.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\helpers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\helpers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\hooks"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\hooks\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\language\\english"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\language\\english\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries\\template.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\logs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\logs\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\PurchaseOrder"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\Supplier"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\Supplier\\SupplierModel.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\Supplier\\SupplierService.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\UserModel.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\UserService.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\third_party"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\third_party\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\dashboard.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\login.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\PurchaseOrder"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\PurchaseOrder\\AddNewPurchaseOrderView.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\template.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "LCS_IMS.puo"
+    {
+    "ProjRelPath" = "T"
+    }
+    "LCS_IMS.suo"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\.htaccess"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Benchmark.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\CodeIgniter.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Common.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Controller.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Exceptions.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Hooks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Input.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Loader.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Model.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Output.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Router.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Security.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\URI.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\core\\Utf8.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB_active_rec.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB_cache.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\DB_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mssql"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mssql\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mssql\\mssql_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mssql\\mssql_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mssql\\mssql_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mssql\\mssql_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysql"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysql\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysql\\mysql_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysql\\mysql_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysql\\mysql_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysql\\mysql_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysqli"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysqli\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysqli\\mysqli_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysqli\\mysqli_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysqli\\mysqli_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\mysqli\\mysqli_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\oci8"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\oci8\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\oci8\\oci8_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\oci8\\oci8_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\oci8\\oci8_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\oci8\\oci8_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\odbc"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\odbc\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\odbc\\odbc_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\odbc\\odbc_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\odbc\\odbc_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\odbc\\odbc_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\postgre"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\postgre\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\postgre\\postgre_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\postgre\\postgre_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\postgre\\postgre_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\postgre\\postgre_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\sqlite"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\sqlite\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\sqlite\\sqlite_driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\sqlite\\sqlite_forge.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\sqlite\\sqlite_result.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\drivers\\sqlite\\sqlite_utility.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\database\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\fonts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\fonts\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\fonts\\texb.ttf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\array_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\captcha_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\cookie_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\date_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\directory_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\download_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\email_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\file_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\form_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\html_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\inflector_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\language_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\number_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\path_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\security_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\smiley_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\string_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\text_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\typography_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\url_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\helpers\\xml_helper.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\calendar_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\date_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\db_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\email_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\form_validation_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\ftp_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\imglib_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\number_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\profiler_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\unit_test_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\english\\upload_lang.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\language\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache\\Cache.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache\\drivers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache\\drivers\\Cache_apc.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache\\drivers\\Cache_dummy.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache\\drivers\\Cache_file.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cache\\drivers\\Cache_memcached.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Calendar.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Cart.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Driver.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Email.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Encrypt.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Form_validation.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Ftp.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Image_lib.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\javascript"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Javascript.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\javascript\\Jquery.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Log.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Pagination.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Parser.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Profiler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Session.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Sha1.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Table.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Trackback.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Typography.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Unit_test.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Upload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\User_agent.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Xmlrpc.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Xmlrpcs.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "system\\libraries\\Zip.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\charts.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\file_tree.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\flexigrid.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ie6.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\livevalidation_standalone.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\photo_gallery.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\header-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\icons-gray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\icons-green.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\icons-lgray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\icons-top.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\page-container-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\search_bar.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\sidebar-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_flat_55_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\images\\ui-headers.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\apple_pie\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\header-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\icons-gray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\icons-lgray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\icons-red.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\logo_BAK.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\page-container-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\search_bar.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\sidebar-bg-left.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\sidebar-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_flat_55_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\images\\ui-headers.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\black_rose\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\header-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\icons-blue.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\icons-gray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\icons-lgray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\page-container-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\page_wrapper.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\search_bar.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\sidebar-bg-left.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\sidebar-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_flat_55_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\images\\ui-headers.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\blueberry\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\header-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\icons-blue.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\icons-gray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\icons-lgray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\page-container-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\search_bar.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\sidebar-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_flat_55_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\images\\ui-headers.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_lightness\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\header-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\icons-blue.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\icons-gray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\icons-lgray.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\logo.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\page-container-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\search_bar.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\sidebar-bg-left.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\sidebar-bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_flat_0_eeeeee_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_flat_55_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_highlight-soft_100_f6f6f6_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_highlight-soft_25_0073ea_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-bg_highlight-soft_50_dddddd_1x100.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\images\\ui-headers.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\themes\\gray_standard\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.accordion.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.base.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.core.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.dashboard.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.datepicker.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.dialog.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.forms.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.login.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.messages.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.reset.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.slider.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.tables.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\css\\ui\\ui.tabs.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\ddn.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\fhbg.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\hl.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\line.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\next.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\prev.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\flexigrid\\Thumbs.db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Book_phones.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Books.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Box_content.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Box_recycle.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Briefcase_files.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Chart_4.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Chart_5.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Clipboard_3.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\error.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Glass.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Globe.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\info.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Mail_compose.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Mail_open.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Monitor.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\notice.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Star.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\success.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\icons\\Thumbs.db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\loading.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\nav_bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\progress_animated.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\images\\Thumbs.db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\autocomplete"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\autocomplete\\indicator.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\autocomplete\\jquery.autocomplete.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\autocomplete\\jquery.autocomplete.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\autocomplete\\jquery.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\autocomplete\\Thumbs.db"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\bgiframe.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\charts.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\cookie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\custom.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\file_tree.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\flexify.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\flexigrid.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\jeditable.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\jquery-1.3.2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\jquery-ui-1.7.2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\js-functions.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\live_search.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\livevalidation_standalone.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\photo_gallery.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\pngfix.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\sidebar_position.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\superfish.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\tablesorter-pager.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\tablesorter.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\tooltip.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\effects.core.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\effects.highlight.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.accordion.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.core.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.datepicker.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.dialog.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.draggable.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.droppable.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.progressbar.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.resizable.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.slider.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.sortable.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\ui\\ui.tabs.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\js\\validate.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\LCS.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\LCS2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\changelog.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\css\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\css\\word.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\custom_formats.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\full.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\index.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\lists"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\lists\\image_list.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\lists\\link_list.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\lists\\media_list.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\lists\\template_list.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\logo.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\logo_over.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\sample.avi"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\sample.dcr"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\sample.mov"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\sample.ram"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\sample.rm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\media\\sample.swf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\menu.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\simple.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\skins.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\templates"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\templates\\layout1.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\templates\\snippet1.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\translate.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\examples\\word.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\langs\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\license.txt"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\css\\advhr.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\js\\rule.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advhr\\rule.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\css\\advimage.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\image.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\img\\sample.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\js\\image.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advimage\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\css\\advlink.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\js\\advlink.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlink\\link.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlist"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlist\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\advlist\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autoresize"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autoresize\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autoresize\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autosave"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autosave\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autosave\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autosave\\images"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autosave\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\autosave\\langs\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\bbcode"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\bbcode\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\bbcode\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\contextmenu"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\contextmenu\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\contextmenu\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\directionality"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\directionality\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\directionality\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\emotions.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-cool.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-cry.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-embarassed.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-foot-in-mouth.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-frown.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-innocent.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-kiss.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-laughing.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-money-mouth.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-sealed.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-smile.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-surprised.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-tongue-out.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-undecided.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-wink.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\img\\smiley-yell.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\js\\emotions.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\emotions\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\dialog.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\img\\example.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\js\\dialog.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\langs\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\example\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\css\\fullpage.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\fullpage.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\js\\fullpage.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullpage\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullscreen"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullscreen\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullscreen\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\fullscreen\\fullscreen.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\iespell"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\iespell\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\iespell\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\alert.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\button.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\buttons.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\confirm.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\corners.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\horizontal.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\img\\vertical.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\skins\\clearlooks2\\window.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\inlinepopups\\template.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\insertdatetime"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\insertdatetime\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\insertdatetime\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\layer"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\layer\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\layer\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\legacyoutput"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\legacyoutput\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\legacyoutput\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\css\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\css\\media.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\flash.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\flv_player.swf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\quicktime.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\realmedia.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\shockwave.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\trans.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\img\\windowsmedia.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\js\\embed.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\js\\media.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\media\\media.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\nonbreaking"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\nonbreaking\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\nonbreaking\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\noneditable"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\noneditable\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\noneditable\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\css\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\img\\pagebreak.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\pagebreak\\img\\trans.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\js\\pastetext.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\js\\pasteword.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\pastetext.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\paste\\pasteword.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview\\example.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview\\jscripts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview\\jscripts\\embed.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\preview\\preview.html"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\print"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\print\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\print\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\save"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\save\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\save\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\css\\searchreplace.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\js\\searchreplace.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\searchreplace\\searchreplace.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\classes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\classes\\utils"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\css\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\img\\wline.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\spellchecker\\includes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\css\\props.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\js\\props.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\style\\props.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\tabfocus"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\tabfocus\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\tabfocus\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\cell.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\css\\cell.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\css\\row.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\css\\table.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\js\\cell.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\js\\merge_cells.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\js\\row.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\js\\table.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\merge_cells.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\row.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\table\\table.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\blank.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\css\\template.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\js\\template.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\template\\template.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\visualchars"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\visualchars\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\visualchars\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\wordcount"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\wordcount\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\wordcount\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\abbr.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\acronym.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\attributes.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\cite.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\css\\attributes.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\css\\popup.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\del.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\editor_plugin.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\editor_plugin_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\ins.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\abbr.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\acronym.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\attributes.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\cite.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\del.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\element_common.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\js\\ins.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\plugins\\xhtmlxtras\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\about.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\anchor.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\charmap.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\color_picker.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\editor_template.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\editor_template_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\image.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\img\\colorpicker.jpg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\img\\icons.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\about.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\anchor.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\charmap.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\color_picker.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\image.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\link.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\js\\source_editor.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\langs\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\langs\\en_dlg.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\link.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\dialog.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img\\buttons.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img\\items.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img\\menu_arrow.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img\\menu_check.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img\\progress.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\img\\tabs.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\default\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\dialog.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\img\\button_bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\img\\button_bg_black.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\img\\button_bg_silver.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\ui_black.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\skins\\o2k7\\ui_silver.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\advanced\\source_editor.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\editor_template.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\editor_template_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\img\\icons.gif"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\langs"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\langs\\en.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\default"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\default\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\default\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\o2k7"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\o2k7\\content.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\o2k7\\img"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\o2k7\\img\\button_bg.png"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\themes\\simple\\skins\\o2k7\\ui.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\tiny_mce.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\tiny_mce_popup.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\tiny_mce_src.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\utils"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\utils\\editable_selects.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\utils\\form_utils.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\utils\\mctabs.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "template_resources\\tinymce\\jscripts\\tiny_mce\\utils\\validate.js"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
